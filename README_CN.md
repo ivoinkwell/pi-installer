@@ -15,7 +15,7 @@ curl -fsSL https://raw.githubusercontent.com/ivoinkwell/pi-installer/main/instal
 Root 用户：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/your-username/repo-name/main/pi-installer/install-pi.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ivoinkwell/pi-installer/main/install-pi.sh | bash
 ```
 
 ## 📋 脚本功能
