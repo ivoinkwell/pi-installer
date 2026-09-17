@@ -9,7 +9,7 @@ Automated installation script for Pi Agent and Pi-Web with autostart, password p
 Regular user:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/your-username/repo-name/main/pi-installer/install-pi.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/ivoinkwell/pi-installer/main/install-pi.sh | sudo bash
 ```
 
 Root user:

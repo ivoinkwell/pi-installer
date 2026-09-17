@@ -9,7 +9,7 @@
 普通用户：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/your-username/repo-name/main/pi-installer/install-pi.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/ivoinkwell/pi-installer/main/install-pi.sh | sudo bash
 ```
 
 Root 用户：
